@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+Free Indeed: Welcome to my blog
 ---
 
 This is a space for my carefree self-expression.
